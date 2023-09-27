@@ -1,0 +1,12 @@
+{
+    "cSpell.words": [
+        "arithop",
+        "mainf",
+        "ofname",
+        "selfop"
+    ],
+    "files.associations": {
+        "tree_node.h": "c",
+        "generate_code.h": "c"
+    }
+}
